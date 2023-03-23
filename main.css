@@ -1,0 +1,39 @@
+.container {
+	margin: 50px auto;
+	text-align: center;
+}
+
+h1 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+input {
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+}
+
+button {
+	padding: 5px 10px;
+	background-color: #008CBA;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#result {
+	font-size: 24px;
+	margin-top: 20px;
+}
+
+#attempts {
+	font-size: 16px;
+	margin-top: 20px;
+}
